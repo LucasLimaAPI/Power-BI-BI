@@ -1,1 +1,7 @@
 RELATED(VALOR): CHAMA O VALOR DE OUTRA TABELA, ELE PERGUNTAR QUAL TABELA E TAMBÉM QUAL COLUNA, ELE ENCONTROU A RELAÇÃO EM OUTRA TABELA/COLUNA E PUXOU A INFORMAÇÃO.
+
+Faturamento total = SUM('Vendas'[Faturamento]) = Como a propria função diz é "SUM" soma ou transforma neste caso a coluna selecionada, podemos adicionar um novo visual em 
+"Nova Medida" e adicionarmos este parametro, na qual nos retornou o valor total em dinheiro dos itens que foram vendidos.
+
+Faturamento = 'Vendas'[Quantidade] * 'Vendas'[Valor_Unitário] = Em "Ferramentas de tabela", podemos criar novas tabelas com funções internas, neste caso nos temos de forma natural
+o "*" de multiplicação, e utilizamos "'" para selecionarmos os dados de determinadas colunas.

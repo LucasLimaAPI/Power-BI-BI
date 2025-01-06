@@ -36,4 +36,7 @@ O Power BI é uma plataforma de Business Intelligence (BI) desenvolvida pela Mic
 - Gráficos de Linhas: Para exibir tendências ao longo do tempo.
 - Mapas: Usados para exibir dados geograficamente e analisar padrões regionais.
 - Tabelas e Matrizes: Para análises mais detalhadas de dados e comparação entre diferentes variáveis.
-<center> <img width=25% src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true"/> </center>
+
+  <p align="center"> <img width=25% src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true"/> </p>
+
+
